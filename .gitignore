@@ -1,1 +1,3 @@
 *.sql
+!Plik_do_generowania.sql
+!Plik_do-generowania-okrazen.sql
